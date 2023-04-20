@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Data-Extraction-Integration-and-Analysis---Clustering-Operations](/https://github.com/george-mountain/Data-Extraction-Integration-and-Analysis---Clustering-Operations)
-<img src="images/statistic-1564428_640.png?raw=true"/>
+<img src="images/dummy_thumbnail.png?raw=true"/>
 
 ---
 [Classic-Food-Delivery-System](/https://github.com/george-mountain/Classic-Food-Delivery-System---Django)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/foodWEB.jpg?raw=true"/>
 
 ---
 [modern-healthcare-management](https://github.com/george-mountain/modern-healthcare-management-system/)
