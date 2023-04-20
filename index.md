@@ -5,7 +5,7 @@
 ### Project Section 1 
 
 [Data-Extraction-Integration-and-Analysis---Clustering-Operations](https://github.com/george-mountain/Data-Extraction-Integration-and-Analysis---Clustering-Operations/)
-<img src="images/dummy_thumbnail.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Classic Food Delivery System --Django](https://github.com/george-mountain/Classic-Food-Delivery-System---Django/)
