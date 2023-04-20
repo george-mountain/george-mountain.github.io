@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.png?raw=true"/>
 
 ---
-[Classic-Food-Delivery-System --Django](https://github.com/george-mountain/Classic-Food-Delivery-System---Django/)
+[Classic Food Delivery System --Django](https://github.com/george-mountain/Classic-Food-Delivery-System---Django/)
 <img src="images/foodWEB.jpg?raw=true"/>
 
 ---
-[modern-healthcare-management](https://github.com/george-mountain/modern-healthcare-management-system/)
+[Modern Healthcare Management](https://github.com/george-mountain/modern-healthcare-management-system/)
 <img src="images/health.jpg?raw=true"/>
 
 ---
@@ -20,7 +20,6 @@
 ### Project Section 2
 
 - [Data-Extraction-Integration-and-Analysis---Clustering-Operations](https://github.com/george-mountain/Data-Extraction-Integration-and-Analysis---Clustering-Operations/)
-- ### Project 2
 - [Classic Food Delivery System --Django](https://github.com/george-mountain/Classic-Food-Delivery-System---Django/)
 - [Modern Healthcare Management](https://github.com/george-mountain/modern-healthcare-management-system/)
 - [Computer Vision Project](https://github.com/george-mountain/Computer-VIsion---Cardiac-Detection-Project/)
