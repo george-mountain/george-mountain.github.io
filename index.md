@@ -20,10 +20,11 @@
 ### Project Section 2
 
 - [Data-Extraction-Integration-and-Analysis---Clustering-Operations](https://github.com/george-mountain/Data-Extraction-Integration-and-Analysis---Clustering-Operations/)
-- [Classic-Food-Delivery-System --Django](https://github.com/george-mountain/Classic-Food-Delivery-System---Django/)
-- [modern-healthcare-management](https://github.com/george-mountain/modern-healthcare-management-system/)
+- ### Project 2
+- [Classic Food Delivery System --Django](https://github.com/george-mountain/Classic-Food-Delivery-System---Django/)
+- [Modern Healthcare Management](https://github.com/george-mountain/modern-healthcare-management-system/)
 - [Computer Vision Project](https://github.com/george-mountain/Computer-VIsion---Cardiac-Detection-Project/)
-- [Project 5 Title](http://example.com/)
+- [Azure MLOPS CI/CD](https://github.com/george-mountain/Azure-MLOPS---Continous-Integration-and-Deployment/)
 
 ---
 
