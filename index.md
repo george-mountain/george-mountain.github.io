@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Project Section 1 
 
-[Data-Extraction-Integration-and-Analysis---Clustering-Operations](https://github.com/george-mountain/Data-Extraction-Integration-and-Analysis---Clustering-Operations)
+[Data-Extraction-Integration-and-Analysis---Clustering-Operations](https://github.com/george-mountain/Data-Extraction-Integration-and-Analysis---Clustering-Operations/)
 <img src="images/dummy_thumbnail.png?raw=true"/>
 
 ---
-[Classic-Food-Delivery-System --Django](https://github.com/george-mountain/Classic-Food-Delivery-System---Django)
+[Classic-Food-Delivery-System --Django](https://github.com/george-mountain/Classic-Food-Delivery-System---Django/)
 <img src="images/foodWEB.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Project Section 2
 
 - [Data-Extraction-Integration-and-Analysis---Clustering-Operations](https://github.com/george-mountain/Data-Extraction-Integration-and-Analysis---Clustering-Operations/)
 - [Classic-Food-Delivery-System --Django](https://github.com/george-mountain/Classic-Food-Delivery-System---Django/)
