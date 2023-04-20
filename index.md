@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[modern-healthcare-management](https://github.com/george-mountain/modern-healthcare-management-system/)
+<img src="images/healthcare images.png?raw=true"/>
 
 ---
 
@@ -21,7 +21,7 @@
 
 - [Data-Extraction-Integration-and-Analysis---Clustering-Operations](https://github.com/george-mountain/Data-Extraction-Integration-and-Analysis---Clustering-Operations/)
 - [Classic-Food-Delivery-System](https://github.com/george-mountain/Classic-Food-Delivery-System---Django/)
-- [Project 3 Title](http://example.com/)
+- [modern-healthcare-management](https://github.com/george-mountain/modern-healthcare-management-system/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
